@@ -75,6 +75,7 @@ I woke up on the timer interrupt (0)
 Thread: 0 is running ...
 [...]
 ```
+![Screenshot 2024-12-01 at 3 05 06 PM](https://github.com/user-attachments/assets/d457d7c8-9a13-464e-8803-9ef89c1add49)
 
 ### Testing Notes
 - The program can be tested with different schedule vectors
